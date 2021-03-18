@@ -34,6 +34,5 @@ export const Container = styled.div`
         color: var(--green);
       }
     }
-
   }
 `;
